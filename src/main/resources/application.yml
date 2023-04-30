@@ -1,0 +1,6 @@
+#mongodb+srv://narru:<password>@recipes.8zxgu2j.mongodb.net/test
+spring:
+ data:
+  mongodb: #(down) mongodb atlas database user connection uri
+   uri : #mongodb connection link
+   database : Recipes #mongodb database
